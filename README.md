@@ -1,7 +1,8 @@
 Hi 👋 My name is Jamie Kim
 ==========================
 
-As a student studying Computer Science at Georgia Institute of Technology, I constantly strive to find solutions to complex human problems with complex programming and algorithms. I often say that I like to live by the meaning of my Korean name "도유 (Doyou)," which means to find the right path. With skills that have been made through experiences, such as leadership and creativity, I'm always excited to tackle down the next step in my path.
+As a student studying Computer Science at Georgia Institute of Technology, I constantly strive to find solutions to complex human problems with complex programming and algorithms. 
+I often say that I like to live by the meaning of my Korean name "도유 (Doyou)," which means to find the right path. With skills that have been made through experiences, such as leadership and creativity, I'm always excited to tackle down the next step in my path.
 
 * 🌍  I'm based in Seoul/Atlanta
 * ✉️  You can contact me at [jkim3678@gatech.edu](mailto:jkim3678@gatech.edu)
