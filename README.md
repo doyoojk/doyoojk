@@ -1,4 +1,4 @@
-Hi 👋 My name is Jamie Kim
+Hi 👋, I'm Jamie Kim
 ==========================
 
 As a student studying Computer Science at Georgia Institute of Technology, I constantly strive to find solutions to complex human problems with complex programming and algorithms. 
