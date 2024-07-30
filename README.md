@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Jamie Kim</h1>
-<h3 align="left">Software Engineer || CS @ Georgia Tech '24</h3>
+<h3 align="left">Software Engineer | CS @ Georgia Tech '24</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
