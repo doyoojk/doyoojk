@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm Jamie Kim</h1>
-<p align="left">As a student studying Computer Science at Georgia Institute of Technology, I constantly strive to find solutions to complex human problems with complex programming and algorithms. My concentrations are in media and intelligence, and I approach coding as not just a technical skill but also as a form of creative art. I often say that I like to live by the meaning of my Korean name "도유 (Doyou)," which means to find the right path. With skills that have been honed through experiences, such as leadership and creativity, I'm always excited to tackle the next step in my journey.</h3>
-
-- 👨‍💻 All of my projects are available at [https://doyoojk.notion.site/Jamie-Kim-8d0a930a851243d7be662408315f5a08?pvs=4](https://doyoojk.notion.site/Jamie-Kim-8d0a930a851243d7be662408315f5a08?pvs=4)
+<p align="left">I constantly strive to find solutions to complex human problems with complex programming and algorithms. My concentrations are in media and intelligence, and I approach coding as not just a technical skill but also as a form of creative art. I often say that I like to live by the meaning of my Korean name "도유 (Doyou)," which means to find the right path. With skills that have been honed through experiences, such as leadership and creativity, I'm always excited to tackle the next step in my journey.</h3>
 
 - 📫 How to reach me **jkim3678@gatech.edu**
 
